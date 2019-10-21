@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapatosADS", "SapatosADS\SapatosADS.csproj", "{B0258FBD-94DC-4BB3-9A8B-B4B632B924B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapatosADSWPF", "SapatosADSWPF\SapatosADSWPF.csproj", "{05763E9E-DC13-4D16-97E0-E17162CDA2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0258FBD-94DC-4BB3-9A8B-B4B632B924B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0258FBD-94DC-4BB3-9A8B-B4B632B924B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0258FBD-94DC-4BB3-9A8B-B4B632B924B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0258FBD-94DC-4BB3-9A8B-B4B632B924B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05763E9E-DC13-4D16-97E0-E17162CDA2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05763E9E-DC13-4D16-97E0-E17162CDA2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05763E9E-DC13-4D16-97E0-E17162CDA2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05763E9E-DC13-4D16-97E0-E17162CDA2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A61D96-2341-466D-8143-3C995D5FD15E}
+	EndGlobalSection
+EndGlobal
